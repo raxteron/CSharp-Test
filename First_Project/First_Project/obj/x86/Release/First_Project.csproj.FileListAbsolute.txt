@@ -1,0 +1,4 @@
+J:\Programs\AULA_Course\Repositories\CSharp-Test\CSharp-Test\First_Project\First_Project\bin\Release\First_Project.exe
+J:\Programs\AULA_Course\Repositories\CSharp-Test\CSharp-Test\First_Project\First_Project\bin\Release\First_Project.pdb
+J:\Programs\AULA_Course\Repositories\CSharp-Test\CSharp-Test\First_Project\First_Project\obj\x86\Release\First_Project.exe
+J:\Programs\AULA_Course\Repositories\CSharp-Test\CSharp-Test\First_Project\First_Project\obj\x86\Release\First_Project.pdb
