@@ -1,0 +1,4 @@
+J:\Programs\AULA_Course\Repositories\CSharp-Test\CSharp-Test\Module2\Module2\bin\Debug\Module2.exe
+J:\Programs\AULA_Course\Repositories\CSharp-Test\CSharp-Test\Module2\Module2\bin\Debug\Module2.pdb
+J:\Programs\AULA_Course\Repositories\CSharp-Test\CSharp-Test\Module2\Module2\obj\x86\Debug\Module2.exe
+J:\Programs\AULA_Course\Repositories\CSharp-Test\CSharp-Test\Module2\Module2\obj\x86\Debug\Module2.pdb
